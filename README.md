@@ -13,7 +13,7 @@
 <div size='20px'> Hi! My name is Pranavan. Welcome to my GitHub Profile :) 
 </div>
   
-<div size='20px'> Check out my portfolio and blogs on www.pranav.bio
+<div size='20px'> check out my portfolio and tech related blogs on www.pranav.bio
 </div>
 
 <h2> About Me <img src = "https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width = 100px></h2>
