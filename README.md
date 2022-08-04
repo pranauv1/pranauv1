@@ -21,8 +21,8 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on creating a personal portfolio
-- 🌱 I’m currently learning Tensorflow, Python and web development
+- 🔭 I’m currently working on creating a customized AI voice assistant
+- 🌱 I’m currently learning PyTorch, ASR and GPT-J
 
 - 👯 I’m looking to collaborate on developers who works related to Flutter, Firebase, Tensorflow, Web development(HTML,CSS,Flask,Nginx). 
 
