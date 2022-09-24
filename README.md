@@ -10,7 +10,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pranauv1.pranauv1)
 
 </p>
-<div size='20px'> Hi! My name is Pranavan. Welcome to my GitHub Profile :) 
+<div size='20px'> Hi! My name is Pranavan :) 
 </div>
   
 <div size='20px'> check out my portfolio and tech related blogs on www.pranav.bio
