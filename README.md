@@ -1,9 +1,3 @@
-<!--
-<div align="center">
-<img width="100%" height = "250px" src="" alt="cover" />
-</div>
--->
-
 <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
@@ -13,7 +7,7 @@
 <div size='20px'> Hi! My name is Pranavan :) 
 </div>
   
-<div size='20px'> check out my portfolio and tech related blogs on www.pranav.bio
+<div size='20px'> Check out my portfolio and tech related blogs on www.pranav.bio
 </div>
 
 <h2> About Me <img src = "https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width = 100px></h2>
