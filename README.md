@@ -6,9 +6,6 @@
 </p>
 <div size='20px'> Hi! My name is Pranavan :) 
 </div>
-  
-<div size='20px'> Check out my portfolio and tech related blogs on www.pranav.bio
-</div>
 
 <h2> About Me <img src = "https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width = 100px></h2>
 
