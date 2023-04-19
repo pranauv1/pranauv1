@@ -12,7 +12,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on creating a customized AI voice assistant
+- 🔭 I’m currently working on a photo editing webapp powerd by AI.
 - 🌱 I’m currently learning PyTorch and DevOps
 
 - 👯 I’m looking to collaborate on developers who works related to Deep Learning and DevOps/MLOps. 
