@@ -13,7 +13,7 @@
 
 
 - 🔭 I do R&D on new trends in AI
-- 🌱 I’m currently learning Transformers
+- 🌱 I’m currently learning Transformers (GPT)
 
 - 👯 I’m looking to collaborate on developers who works related to research in AI and open source models. 
 
